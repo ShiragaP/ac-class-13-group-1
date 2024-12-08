@@ -1,4 +1,4 @@
-#1: Nickname1
+#1: Up
 #2: Nickname2
 #3: Nickname3
 #4: Nickname4
